@@ -1,0 +1,17 @@
+Aim: Design Christmas dual led chaser lights.
+Apparatus: Arduino, LED’s, Resistance 470 ohm, wires, Breadboard
+Procedure:
+step1:
+take a arduino and a breadboard.
+step2:
+take 4 led's with 4 resistors.
+step3:
+join them in a circuit 
+step 4 :
+providing power supply with computer
+step5:
+now it starts blinking with a pattern 
+step5:
+pattern is first glow with 2 first leds then glow in same pattern.
+Result
+Chasing of LED was verified after uploading the program.
